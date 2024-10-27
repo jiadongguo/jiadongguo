@@ -65,7 +65,7 @@ Source repository: <https://github.com/jiadongguo/jiadongguo>
                 <img src="https://go-skill-icons.vercel.app/api/icons?i=fortran,py,c,cpp,cmake,md,latex,matlab,octave&titles=true">
             </p>
             <p align="center">
-                <a href="https://github.com/jiadongguo"><img src="https://img.shields.io/badge/guojd-blue?logo=github/></a>
+                <a href="https://github.com/jiadongguo"><img src="https://img.shields.io/badge/guojd-blue?logo=github"/></a>
                 <img src="https://img.shields.io/badge/-gjd0812---blue?logo=wechat" /></a>
             </p>
             <p align="center">
