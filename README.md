@@ -67,6 +67,7 @@ Source repository: <https://github.com/jiadongguo/jiadongguo>
             <p align="center">
                 <!-- https://github.com/badges/shields -->
                 <a href="https://github.com/jiadongguo"><img src="https://img.shields.io/badge/guojd-blue?logo=github" /></a>
+                <img src="https://img.shields.io/badge/gjd0812--blue?logo=wechat" /></a>
             </p>
             <p align="center">
                 <!-- https://github.com/kyechan99/capsule-render -->
