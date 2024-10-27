@@ -65,10 +65,8 @@ Source repository: <https://github.com/jiadongguo/jiadongguo>
                 <img src="https://go-skill-icons.vercel.app/api/icons?i=fortran,py,c,cpp,cmake,md,latex,matlab,octave&titles=true">
             </p>
             <p align="center">
-                <!-- https://github.com/badges/shields -->
-                <a href="https://github.com/jiadongguo"><img src="https://img.shields.io/badge/-guojd-blue?logo=github" /></a>
+                <a href="https://github.com/jiadongguo"><img src="https://img.shields.io/badge/-guojd-blue?logo=github?&logoColor=grey" /></a>
                 <img src="https://img.shields.io/badge/-gjd0812---blue?logo=wechat" /></a>
-                <img src="https://img.shields.io/badge/gjd0812-?logo=wechat&logoColor=grey&color=blue"/></a>
             </p>
             <p align="center">
                 <!-- https://github.com/kyechan99/capsule-render -->
